@@ -1,0 +1,48 @@
+body {
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 0;
+}
+
+.title{
+    color: white;
+}
+
+.subtitle{
+   color: white;
+}
+
+ul.navbar li{
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+
+ul.navbar{
+    list-style: none;
+    border: 1px solid white;
+    text-align: left;
+    background-color: teal;
+}
+
+ul.navbar li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
+.content{
+    background-color: white;
+    padding: 20px;
+}
+
+.content h2{
+    padding: 0;
+    margin: 0;
+}
+
+.content li{
+    margin-bottom: 10px;
+}
